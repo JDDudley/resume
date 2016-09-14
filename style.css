@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.name {
+    font-family: 'Lato', sans-serif;
+    font-style: bold;
+}
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+.position {
+    font-style: italic;
+}
+.dates {
+    float: right;
+}
+h3 {
+    font-weight: bold;
+}
