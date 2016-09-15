@@ -5,6 +5,7 @@ body {
     background: navy;
     color: white;
     text-align: center;
+    height: 100%;
 }
 .name {
     font-family: 'Lato', sans-serif;
@@ -12,7 +13,6 @@ body {
 }
 h2 {
     font-family: 'Lato', sans-serif;
-    float: left;
 }
 .position {
     font-style: italic;
